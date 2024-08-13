@@ -1,5 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+
+:root {
+    --cor-hover: #b5f8fa;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
 #inicio{
     background-image: url(fundo.png);
     background-position: center;
     width: 100vw;
+}
+
+body{
+    background-color: #FBF4E8;
+ }
+ 
+ header{
+     position: fixed;
+     width: 100vw;
+     margin-top: 0;
+     top: 0;
+     z-index: 2;
+ }
+ 
+ footer{
+     display: flex;
+     justify-content: end;
+ }
+ 
+ @media screen and (min-width: 768px) and (max-width: 1540px){
+
+    main{
+     margin: 5px 30px;
+    }
+
+    .logo{
+        width: 100px;
+        margin-bottom: 30px;
+        right: 30px;
+    }
+
+    h1{
+        color: #5C1362;
+        font-size: 60px;
+        font-family: 'Rubik', sans-serif;
+        margin-left: 15px;
+        padding-top: 50px;    
+    }
+    
+    h3, p{
+        color: #352C84;
+        font-size: 20px;
+        font-family: "Red Hat Display", sans-serif;;
+    }
+
+    h2{
+        color: #352c84;
+        font-size: 40px;
+        font-family: 'Rubik', sans-serif;;
+    }
+
 }
