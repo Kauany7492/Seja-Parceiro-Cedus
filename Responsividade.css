@@ -13,17 +13,6 @@ footer{
   padding: 0 0 10px 10px;
  }
 
- .icons-rs{
-        display: flex;
-        justify-content: space-between;
-    }
-
-    .icons{
-        width: 60px;
-        right: 60px;
-        margin: 30px;
-    }
-
  .logo{
  width: 80px;
 }
@@ -36,7 +25,7 @@ footer{
    font-family: 'Rubik', sans-serif;
    }
 
-  h3, p, .email, .telefone{
+  h3, p{
   font-size: 20px;
     color: #352c84;
    font-family: "Red Hat Display", sans-serif;;
@@ -60,17 +49,6 @@ header{
  width: 500px;
  }
 
- .icons-rs{
-        display: flex;
-        justify-content: space-between;
-    }
-
-    .icons{
-        width: 60px;
-        right: 60px;
-        margin: 30px;
-    }
-
  .logo{
  width: 80px;
 }
@@ -86,7 +64,7 @@ header{
    font-family: 'Rubik', sans-serif;
    }
 
- h3, p, .email, .telefone{
+ h3, p{
   font-size: 20px;
     color: #352c84;
    font-family: "Red Hat Display", sans-serif;
@@ -117,17 +95,6 @@ header{
    margin-right: 150px;
   }
 
- .icons-rs{
-        display: flex;
-        justify-content: space-between;
-    }
-
-    .icons{
-        width: 130px;
-        right: 130px;
-        margin: 65px;
-    }
-
  .logo{
         width: 150px;
         margin-bottom: 30px;
@@ -142,7 +109,7 @@ header{
         padding-top: 60px;    
     }
     
-    h3, p, .email, .telefone{
+    h3, p{
         color: #352C84;
         font-size: 30px;
         font-family: "Red Hat Display", sans-serif;
