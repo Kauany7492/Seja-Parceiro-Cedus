@@ -12,6 +12,7 @@
 #inicio{
     background-image: url(fundo.png);
     background-position: center;
+    height: 500px;
     width: 100vw;
 }
 
