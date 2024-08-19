@@ -9,28 +9,24 @@
   padding: 0;
 }
 
-#inicio{
-    z-index: 2;
-}
-
 body{
     background-color: #FBF4E8;
- }
+}
  
- header{
+header{
      position: fixed;
      width: 100vw;
      margin-top: 0;
      top: 0;
      z-index: 2;
- }
+}
  
- footer{
+footer{
      display: flex;
      justify-content: end;
- }
+}
  
- @media screen and (min-width: 768px) and (max-width: 1540px){
+@media screen and (min-width: 768px) and (max-width: 1540px){
 
     main{
      margin: 5px 30px;
