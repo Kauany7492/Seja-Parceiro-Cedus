@@ -9,6 +9,19 @@
   padding: 0;
 }
 
+#inicio{
+    display: flex;
+}
+
+.titulo{
+    justify-content: center;
+}
+
+.fundo{
+    width: 100vw;
+    height: auto;
+}
+
 body{
     background-color: #FBF4E8;
 }
