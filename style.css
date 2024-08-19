@@ -9,12 +9,8 @@
   padding: 0;
 }
 
-#inicio{
-    display: flex;
-}
-
 .titulo{
-    justify-content: center;
+    position: absolute;
 }
 
 .fundo{
