@@ -18,9 +18,15 @@
     height: auto;
 }
 
+#doacao, #voluntario{
+    display: flex;
+    gap: 1vw;
+}
+
 .maos, .logo-voluntario{
     width: 50vw;
     height: auto;
+    justify-content: center;
 }
 
 body{
