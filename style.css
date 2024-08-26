@@ -18,6 +18,11 @@
     height: auto;
 }
 
+.maos, .logo-voluntario{
+    width: 50vw;
+    height: auto;
+}
+
 body{
     background-color: #FBF4E8;
 }
