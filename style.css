@@ -21,6 +21,7 @@
 #doacao, #voluntario{
     display: flex;
     gap: 1vw;
+    columns: 50vw;
 }
 
 .maos, .logo-voluntario{
@@ -66,7 +67,7 @@ footer{
         padding-top: 50px;    
     }
     
-    h3, p{
+    h3, p, li{
         color: #352C84;
         font-size: 20px;
         font-family: "Red Hat Display", sans-serif;;
